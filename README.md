@@ -13,4 +13,4 @@ My name is **Parinthapat P**, I am a *entry level python develeloper*. I have wo
 - 😄 Pronouns:
   - He
   
-- ⚡ Fun fact: " I like Python "
+- ⚡ Fun fact: " I'm really young."
