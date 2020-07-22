@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Parinz/Parinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django. 
 
-Here are some ideas to get you started:
+### 
+- 🔭 I’m currently working on a Tkinter/Matplotlib Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Matplotlib
+
+- 📫 How to reach me: 
+  - Email: parinzee@protonmail.com
+  - Phone: +66 889652464
+  
+- 😄 Pronouns:
+  - He
+  
+- ⚡ Fun fact: " I like Python "
