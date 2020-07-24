@@ -1,8 +1,8 @@
 
-# Hi there! 😀🖐
+## Hi there! 😀🖐
 My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django. 
 
-### 
+### Quick Info
 - 🔭 I’m currently working on a Password Generator/Manager Project
 
 - 🌱 I’m currently learning cryptography
@@ -16,7 +16,7 @@ My name is **Parinthapat P**, I am a *entry level python develeloper*. I have wo
   
 - ⚡ Fun fact: " I'm really young."
 
-## Skills
+### Skills
 
 + Python
   + Flask
