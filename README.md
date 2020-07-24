@@ -2,9 +2,9 @@
 My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django. 
 
 ### 
-- 🔭 I’m currently working on a Tkinter/Matplotlib Project
+- 🔭 I’m currently working on a Password Generator/Manager Project
 
-- 🌱 I’m currently learning Matplotlib
+- 🌱 I’m currently learning cryptography
 
 - 📫 How to reach me: 
   - Email: parinzee@protonmail.com
@@ -14,3 +14,5 @@ My name is **Parinthapat P**, I am a *entry level python develeloper*. I have wo
   - He
   
 - ⚡ Fun fact: " I'm really young."
+
+
