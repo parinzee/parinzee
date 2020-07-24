@@ -15,4 +15,5 @@ My name is **Parinthapat P**, I am a *entry level python develeloper*. I have wo
   
 - ⚡ Fun fact: " I'm really young."
 
-
+## Skills
+[![Python](https://www.python.org/)](https://www.python.org/)
