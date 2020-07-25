@@ -1,10 +1,11 @@
 
 ## Hi there! 😀🖐
-My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django.
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parinz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
+My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django.
 
 ### Quick Info
 - 🔭 I’m currently working on a Password Generator/Manager Project
