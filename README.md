@@ -8,15 +8,7 @@
 My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django.
 
 <hr>
-
-
-
-
-
-
-
-
-
+<br/><br/>
 
 ## Quick Info
 - 🔭 I’m currently working on a Password Generator/Manager Project
