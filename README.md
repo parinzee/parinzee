@@ -5,12 +5,10 @@
 </a>
 
 
-### My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django.
+### My name is **Parinthapat P**, I am a *entry level python develeloper*. I have worked and am working with web technologies such as Flask and Django. I am familarized with HTML, CSS, and SQL. I also create Python Desktop Applications utilizing Tkinter, Fernet Encryption, SQLite3 and so on.
 
 <hr>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+<br/>
 
 ## Quick Info
 - 🔭 I’m currently working on a Password Generator/Manager Project
