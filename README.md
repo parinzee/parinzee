@@ -13,8 +13,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 <hr>
 
 ## Quick Info
