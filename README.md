@@ -19,7 +19,7 @@
 
 ## Quick Info
 - ![](https://komarev.com/ghpvc/?username=Parinz)
-- 🔭 I’m currently working on a Password Generator/Manager Project
+- 🔭 I’m currently working on a Kivy App for viewing Renweb
 
 - 📫 How to reach me: 
   - Email: parinzee@protonmail.com
