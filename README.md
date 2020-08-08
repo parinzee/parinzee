@@ -19,7 +19,7 @@
 
 ## Quick Info
 - ![](https://komarev.com/ghpvc/?username=Parinz)
-- 🔭 I’m currently working on a Kivy App for viewing Renweb
+- 🔭 I’m currently working on a <a href='https://github.com/Parinz?tab=projects'>Kivy App for viewing Renweb</a>
 
 - 📫 How to reach me: 
   - Email: parinzee@protonmail.com
