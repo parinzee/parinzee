@@ -16,7 +16,7 @@
 <hr>
 
 ## Quick Info
-- ![](https://komarev.com/ghpvc/?username=Parinz)
+- ![](https://komarev.com/ghpvc/?username=Parinz) [![CodeFactor](https://www.codefactor.io/repository/github/parinz/open-sourced-renweb-viewer/badge)](https://www.codefactor.io/repository/github/parinz/open-sourced-renweb-viewer)
 - 🔭 I’m currently working on a <a href='https://github.com/Parinz?tab=projects'>Kivy App for viewing Renweb</a>
 
 - 📫 How to reach me: 
