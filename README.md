@@ -27,6 +27,7 @@
 + Python
   + Flask
   + Tkinter
+  + Kivy
 
 
 + Web Technologies
