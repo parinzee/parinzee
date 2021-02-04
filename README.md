@@ -1,22 +1,10 @@
 
 # Hi there, I'm Parinz! 😀🖐
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=parinz&count_private=true&show_icons=true" />
-</a>
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 
-
-#### My name is **Parinthapat P**, I am a *python develeloper*. I have worked and am working with web technologies such as Flask. I am familarized with HTML, CSS, and SQL. I also create Python Desktop and Mobile Applications utilizing Tkinter, Kivy, Fernet Encryption, SQLite3 and so on.
-<br/><br/><br/>
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinz&layout=compact" />
-</a>
-
-<br/>
-<br/>
-<hr>
+My name is **Parinthapat P**, I am a *python develeloper*. I have worked and am working with web technologies such as Flask. I am familarized with HTML, CSS, and SQL. I also create Python Desktop and Mobile Applications utilizing Tkinter, Kivy, Fernet Encryption, SQLite3 and so on.
 
 ## Quick Info
-- ![](https://komarev.com/ghpvc/?username=Parinz) 
 - 🔭 I’m currently working on a <a href='https://github.com/Parinz?tab=projects'>A progressive web app based on Javascript, Python, HTML, and CSS</a>
 
 - 📫 How to reach me: 
