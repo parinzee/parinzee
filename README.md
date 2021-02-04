@@ -11,5 +11,11 @@ My name is **Parinthapat P**, I am a *python develeloper*. I have worked and am 
   - Email: parinzee@protonmail.com
   - Phone: +66 889652464
   
-## Skills
+## Environment
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=2bbc8a)
+
+
+## Languages
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
