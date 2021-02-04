@@ -12,17 +12,4 @@ My name is **Parinthapat P**, I am a *python develeloper*. I have worked and am 
   - Phone: +66 889652464
   
 ## Skills
-+ Python
-  + Flask
-  + Tkinter
-  + Kivy
-
-
-+ Web Technologies
-  + HTML5
-  + CSS3
-  + Javascript
-  + SQL
-    + SQLite
-    + PostgreSQL
-  
+![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=2bbc8a)
