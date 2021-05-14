@@ -12,7 +12,7 @@ My name is **Parinthapat P**, I am a *python and javascript developer*. You may 
   - Phone: +66 889652464
   
 ## Environment
-![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=2bbc8a)
 
 
