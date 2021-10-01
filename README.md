@@ -1,21 +1,20 @@
 
-# Hi there, I'm Parinz! 😀<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
-
-My name is **Parinthapat P**, I am a *python and javascript developer*. You may also know me for being a maintainer of the [linux-surface-overlay](https://github.com/Parinz/linux-surface-overlay). I have worked and am working with web technologies such as Flask. I am familarized with HTML, CSS, and SQL. I also create Python Desktop and Mobile Applications utilizing Tkinter, Kivy, Fernet Encryption, SQLite3 and so on.
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp; My name is **Parin**. I'm a self-taught fullstack developer specializing in react-native, and python.\
+✍️ &nbsp; In my free time, I sing & play the guitar.\
+✉️ &nbsp; You can email me at parinzee@protonmail.com. I'll try to respond as soon as possible!
+  
+### 🛠 &nbsp;Tech Stack
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Quick Info
-- 🔭 I’m currently working on a <a href='https://github.com/Parinz?tab=projects'>A progressive web app based on Javascript, Python, HTML, and CSS</a>
-
-- 📫 How to reach me: 
-  - Email: parinzee@protonmail.com
-  - Phone: +66 889652464
-  
-## Environment
-![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=2bbc8a)
-
-
-## Languages
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+- 💬 Freelance work? Head to, [my email](mailto:parinzee@protonmail.com)
+- 💼 I'm currently working on the [nexus application](https://github.com/Parinz/nexus-app).
