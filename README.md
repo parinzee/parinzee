@@ -24,3 +24,7 @@
 ## Quick Info
 - 💬 Freelance work? Head to, [my email](mailto:parinzee@protonmail.com)
 - 💼 I'm currently working on the [nexus application](https://github.com/Parinz/nexus-app).
+
+## My Day
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
