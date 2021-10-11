@@ -37,6 +37,7 @@
 ## My Day
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       1 hr 47 mins    ██████████████████▓░░░░░░   75.05 % 
+JavaScript   35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
 ```
 <!--END_SECTION:waka-->
