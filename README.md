@@ -20,6 +20,7 @@
 ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-05122A?style=flat&logo=webrtc)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres%20SQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![SQL Alchemy](https://img.shields.io/badge/-SQL%20Alchemy-05122A?style=flat&logo=flask)&nbsp;
 
 #### Web
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -30,13 +31,15 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
+![Emacs](https://img.shields.io/badge/-Emacs-05122A?style=flat&logo=gnuemacs)&nbsp;
 
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Mac OS](https://img.shields.io/badge/-Mac%20OS-05122A?style=flat&logo=apple)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
-### 🕒 &nbsp;Expirence
+### 🕒 &nbsp;Experience
 - Python: **2 Years**
 - Javascript: **1 Year**
 - C++: 1 **Day**
