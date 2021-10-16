@@ -51,7 +51,7 @@
 - 💬 Freelance work? Head to, [my email](mailto:parinzee@protonmail.com)
 - 💼 I'm currently working on the [nexus application](https://github.com/Parinz/nexus-app).
 
-## My Day
+## Statistics
 <!--START_SECTION:waka-->
 ```text
 Python       13 hrs 44 mins  ████████████████▓░░░░░░░░   66.29 % 
