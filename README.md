@@ -54,10 +54,10 @@
 ## Statistics
 <!--START_SECTION:waka-->
 ```text
-Python       9 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.05 % 
-TypeScript   4 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-JavaScript   2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Python       8 hrs           ███████████████░░░░░░░░░░   60.20 % 
+JavaScript   2 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+TypeScript   2 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
