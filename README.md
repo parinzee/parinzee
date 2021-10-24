@@ -54,9 +54,8 @@
 ## Statistics
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 37 mins   ███████████░░░░░░░░░░░░░░   43.83 % 
-TypeScript   2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   36.78 % 
-Python       54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JavaScript   2 hrs 20 mins   ███████████████████▒░░░░░   77.73 % 
+Python       30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
+JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
 <!--END_SECTION:waka-->
