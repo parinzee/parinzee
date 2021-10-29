@@ -54,6 +54,6 @@
 ## Statistics
 <!--START_SECTION:waka-->
 ```text
-Python       16 mins         ███████████████████████▒░   92.88 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
