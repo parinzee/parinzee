@@ -54,8 +54,6 @@
 ## Statistics
 <!--START_SECTION:waka-->
 ```text
-Python   18 hrs 53 mins  █████████████████████████   99.69 % 
-TOML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python   14 hrs 56 mins  █████████████████████████   99.93 % 
 ```
 <!--END_SECTION:waka-->
