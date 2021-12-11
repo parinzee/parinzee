@@ -54,6 +54,6 @@
 ## Statistics
 <!--START_SECTION:waka-->
 ```text
-Python       2 mins          ██████████████████████▓░░   90.04 % 
+
 ```
 <!--END_SECTION:waka-->
