@@ -54,7 +54,6 @@
 ## Statistics
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 47 mins    ███████████████████████░░   91.52 % 
-JavaScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Python   1 hr 13 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
