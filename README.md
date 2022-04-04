@@ -43,7 +43,7 @@
 ### 🕒 &nbsp;Experience
 - Python: **2 Years**
 - Javascript: **1 Year**
-- C++: 1 **Day**
+- C++: ~6 **Months**
 - React: **~1 Year**
 - React Native: **~9 Months**
 
