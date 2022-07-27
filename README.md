@@ -41,15 +41,14 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
 ### 🕒 &nbsp;Experience
-- Python: **2 Years**
-- Javascript: **1 Year**
+- Python: **3 Years**
+- Javascript: **2 Year**
 - C++: ~6 **Months**
-- React: **~1 Year**
-- React Native: **~9 Months**
+- React: **~2 Years**
+- React Native: **~1 Year**
 
 ## Quick Info
 - 💬 Freelance work? Head to, [my email](mailto:parinzee@protonmail.com)
-- 💼 I'm currently working on the [nexus application](https://github.com/Parinz/nexus-app).
 
 ## Statistics
 <!--START_SECTION:waka-->
