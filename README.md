@@ -52,5 +52,14 @@
 
 ## Statistics
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   57 hrs 19 mins  █████████████████░░░░░░░░   68.03 %
+Python       18 hrs 42 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+JavaScript   3 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+JSON         3 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other        55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+```
+
 <!--END_SECTION:waka-->
 
