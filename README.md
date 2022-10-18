@@ -1,4 +1,5 @@
-### 👨🏻‍💻 &nbsp;About Me
+![](https://komarev.com/ghpvc/?username=parinzee&style=for-the-badge)
+### 👨🏻‍💻 &nbsp;About Me 
 💡 &nbsp; My name is **Parin**. I'm a self-taught fullstack developer specializing in react-native, and python.\
 ✍️ &nbsp; In my free time, I sing & play the guitar.\
 ✉️ &nbsp; You can email me at parinzee@protonmail.com. I'll try to respond as soon as possible!
