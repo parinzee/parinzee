@@ -65,3 +65,4 @@ Other              1 hr 26 mins    ▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![@parinzee's Holopin board](https://holopin.me/parinzee)](https://holopin.io/@parinzee)
